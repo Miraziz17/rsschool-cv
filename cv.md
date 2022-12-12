@@ -1,14 +1,12 @@
 # rsschool-cv
 ## Omurbek uulu Miraziz
 ----------------------
-
 2. ### Contacts 
 - Phone: +996 700 377 822
 - E-mail: colorfestsibir@gmail.com
 - Discord: Miraziz(@Miraziz17)
  ---------------------
- 
-3. **Briefly About Myself:**
+ 3. **Briefly About Myself:**
 _For me, this is a new experience. A new life, that's why I want to understand the profession of a developer as much as possible. My strengths are the ability to find a way out of the situation in the shortest possible time, because time is the most precious thing. Well, maybe my laziness encourages me to do it faster and better._
 ----------------------
 4. __Skills and Proficiency:__
