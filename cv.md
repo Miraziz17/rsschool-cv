@@ -11,8 +11,7 @@ _For me, this is a new experience. A new life, that's why I want to understand t
 ----------------------
 4. __Skills and Proficiency:__
 _There are no skills and knowledge of programming languages._
-----------------------
-5.**Code example:** 
+5. **Code example:** 
  _There are no examples,but I hope in the future there will be more than one._
 ----------------------
 6.**Education:**
