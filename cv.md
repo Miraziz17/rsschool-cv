@@ -18,3 +18,5 @@ _Unfinished secondary specialized education. "Novosibirsk aircraft technical col
 **********************
  7.**Languages:**
 _Level of knowledge of English (A2)_
+
+----------------------
