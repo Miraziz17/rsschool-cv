@@ -1,7 +1,6 @@
-# rsschool-cv
-## Omurbek uulu Miraziz
+# Omurbek uulu Miraziz
 ----------------------
-2. ### Contacts 
+2. ## Contacts 
 - Phone: +996 700 377 822
 - E-mail: colorfestsibir@gmail.com
 - Discord: Miraziz(@Miraziz17)
@@ -21,4 +20,3 @@ _Unfinished secondary specialized education. "Novosibirsk aircraft technical col
 _Level of knowledge of English (A2)_
 
 ----------------------
-
