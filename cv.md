@@ -13,8 +13,8 @@ _There are no skills and knowledge of programming languages._
 5. **Code example:** 
  _There are no examples,but I hope in the future there will be more than one._
 ----------------------
-6.**Education:**
+ 6.**Education:**
 _Unfinished secondary specialized education. "Novosibirsk aircraft technical college 2012-2016"_
 **********************
-7.**Languages:**
+ 7.**Languages:**
 _Level of knowledge of English (A2)_
